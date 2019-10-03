@@ -1,6 +1,6 @@
-# Objetivo criar uma API - BelémTour
+# Objetivo criar uma API com JWT
 
-- criar uma api para o aplicativo de turismo de belém
+
 
 # Tarefas
 
