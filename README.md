@@ -16,3 +16,4 @@
 - [x] configurar jwt para sessões 
 - [x] criar controller session usando jwt
 - [x] criar controller de user 
+- [ ] configurar o arquivo .env
