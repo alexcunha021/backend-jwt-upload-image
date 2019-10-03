@@ -9,6 +9,10 @@
 - [x] Configurar o .editorConfig eslint -D
 - [x] Iniciar o projeto criando o server, routes, app.
 - [x] conecta o projeto com banco de dados - MongoDB
-- [] criar o schema de places
-- [] criar criar o controller de places
-- [] teste para ter certeza que esta funcionando corretamente controller.
+- [x] criar o schema de Cadastro
+- [x] criar criar o controller de Cadastro
+- [x] criar criptografia de password
+- [x] configurar multer para uploads de imagens
+- [x] configurar jwt para sessões 
+- [x] criar controller session usando jwt
+- [x] criar controller de user 
